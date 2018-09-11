@@ -18,8 +18,6 @@ console.log('App listening to port 8080');
 
 
 function getCharacters(data) {
-    //console.log(data);
-    //var found = null;
 
     var found = '{ "characters" :[' ;
 
