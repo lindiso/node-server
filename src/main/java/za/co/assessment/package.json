@@ -1,0 +1,18 @@
+{
+  "name": "assessment",
+  "version": "0.0.0",
+  "description": "Simple todo application.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "mongoose": "~3.6.2",
+    "morgan": "~1.2.2",
+    "node": "^10.9.0",
+    "node-fetch": "^2.2.0",
+    "server.js": "^1.0.0"
+  }
+}
